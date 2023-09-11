@@ -4,7 +4,7 @@
 
 A growth mindset believes that a person's ability and talent is not unchangable and through effort and commitment someone can achieve almost anything they'd like to. 
 
-This takes the form of seeing challenges and failures as simply *'bumps in the road'* on the path to achievement and in fact essential while learning something new. 
+This takes the form of seeing challenges and failures as simply '*bumps in the road*' on the path to achievement and in fact essential while learning something new. 
 
 > "It’s not that I'm so smart, it’s just that I stay with problems longer." - Albert Einstein
 
