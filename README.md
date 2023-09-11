@@ -13,3 +13,7 @@ This takes the form of seeing challenges and failures as simply *'bumps in the r
 - Remind yourself that everyone that is great at anything didn't start out that way
 - View challenging experiences as opportunities to learn
 - Welcome constructive criticism and take advice 
+
+### About Me
+
+My name is Lee and here's a link to my [GitHub profile](https://github.com/crackerFactory64)
