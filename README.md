@@ -1,4 +1,4 @@
-![](https://img.freepik.com/free-vector/cute-brain-cartoon-vector-icon-illustration-people-education-icon-concept-isolated-premium-vector_138676-9060.jpg)
+![A happy brain](https://img.freepik.com/free-vector/cute-brain-cartoon-vector-icon-illustration-people-education-icon-concept-isolated-premium-vector_138676-9060.jpg)
 
 # Growth Mindset
 
