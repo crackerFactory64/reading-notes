@@ -16,6 +16,6 @@ While both the asterisk (\*) and the underscore (\_) can be used to add emphasis
 
 ### What are the three symbols you can use to create an unordered(bulleted) list with Markdown?
 
-- -
+- \-
 - \+
 - \*
