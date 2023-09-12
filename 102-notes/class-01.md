@@ -8,7 +8,7 @@ An example of a symbol that is used for formatting is the hash key (#). The hash
 
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
-While both the asterisk (\*) and the underscore (\_) can be used to add emphasis it is considered best practice to use the asterisk to aid with readibilty.
+While both the asterisk (\*) and the underscore (\_) can be used to add bold and italic emphasis to text it is considered best practice to use underscores for italics and double asterisks for bold.
 
 ### How do you create a link with Markdown?
 
