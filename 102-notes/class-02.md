@@ -5,7 +5,7 @@
 When choosing a text editor for programming four important features are:
 
 - code completion, where the editor will autocomplete and suggest things such as HTML tags while you type
-- syntax highlighting to improve readibility of code
+- syntax highlighting to improve readability of code
 - comfortable themes that don't hurt the eyes
 - customisable with extensions to suit your needs
 
