@@ -4,4 +4,4 @@ HTML is a markup language which is used to create documents which contain the st
 
 The three main parts of an HTML element are the opening tag, the closing tag, and the content between them. To add extra information to an element such as a class name or a URL containg an image source.
 
-Some elements are considered semantic elements which means they have specific meaning such as the <nav> element which denotes a navigation section of an document, compared to a <div> which is a more general containing element.
+Some elements are considered semantic elements which means they have specific meaning such as the _nav_ element which denotes a navigation section of an document, compared to a _div_ which is a more general containing element.
