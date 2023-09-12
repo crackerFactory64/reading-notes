@@ -1,5 +1,7 @@
 # Hello!
 
+![Me](./me-edit.png)
+
 My name is Lee and I am an aspiring web developer currently enrolled on the Tech Educators coding bootcamp. Here is [a link to my GitHub profile](https://github.com/crackerFactory64) where you can see what I've been working on.
 
 ## About this Repo
