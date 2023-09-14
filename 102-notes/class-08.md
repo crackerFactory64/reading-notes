@@ -1,7 +1,9 @@
 # Class 08 - Operators and Loops
 
 In JavaScript, an expression is any valid block of code that results in a value. For example, 
+
                 console.log(1 === 1) 
+                
 would produce the boolean value _true_.
 
 Loops are used in JavaScript are used to perform an action repeatedly. An example of this would be the following:
