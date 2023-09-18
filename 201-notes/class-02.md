@@ -34,6 +34,8 @@ Q: Why should we avoid using inline styles?
 
 A: They detract from the readability of code and are a less economic use of CSS due to the fact that they can only apply style rules to one particular element at a time.
 
+---
+
 Review the block of code below and answer the following questions:
 
         h2 {
