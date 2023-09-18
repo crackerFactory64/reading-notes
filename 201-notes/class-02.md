@@ -87,6 +87,6 @@ Q: List 3 different types of comparison operators.
 
 A: _==_ (equal to), _>_ (greater than), _!=_ (not equal to)
 
-Q: What is the difference between the logical operator && and ||?
+Q: What is the difference between the logical operator && and &#124;&#124;?
 
-A: _&&_ (AND) means all specified comparisons must be true for a condition to return _true_ whereas with _||_ (OR) any of the specified comparisons can be true for a condition to return _true_.
+A: _&&_ (AND) means all specified comparisons must be true for a condition to return _true_ whereas with &#124;&#124; (OR) any of the specified comparisons can be true for a condition to return _true_.
