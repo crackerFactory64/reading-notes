@@ -6,9 +6,6 @@ The two types of list supported by HTML are ordered and unordered lists. Unorder
 
 ## CSS
 
-Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-List and describe the four parts of an HTML elements box as referred to by the box model.
-
 _Margin_ determines the space between elements and _padding_ determines the space between an element's content and the edge of the element itself.
 
 ### Parts of the box model
