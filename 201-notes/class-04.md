@@ -18,7 +18,7 @@ A: Ensure the link text is short and semantic. Make it clear that text is a link
 
 ## CSS Layout
 
-### FLow
+### Flow
 
 In CSS normal flow refers to the default way in which elements are rendered on screen. By default, block elements appear one after each other top to bottom whereas inline elements appear next to each other horizontally.
 
