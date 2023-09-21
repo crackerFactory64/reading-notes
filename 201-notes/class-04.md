@@ -5,12 +5,15 @@
 ### Creating Hyperlinks
 
 Q: To create a basic link, we wrap text or other content inside what element?
+
 A: _a_
 
 Q: The href attribute contains what information?
+
 A: A URL
 
 Q: What are some ways we can ensure links on our pages are accessible to all readers?
+
 A: Ensure the link text is short and semantic. Make it clear that text is a link by following style conventions e.g. underlined, a different colour to regular text.
 
 ## CSS Layout
@@ -27,8 +30,18 @@ The default _position_ value for every HTML element is _static_ which means it w
 
 ### Functions – Reusable Blocks of Code
 
-Describe the difference between a function declaration and a function invocation.
-What is the difference between a parameter and an argument?
+A function is declared, or created, like so:
+
+        function greetUser(name){
+            alert("Welcome, " + name + "!");
+        }
+
+To then use, or invoke, that function the developer would type:
+
+        greetUser("Bob");
+
+When invoking a function that uses a parameter, e.g. 'name' in the above example, the value, or argument, is placed in the parentheses after the function name.
+
 Miscellaneous
 6 Reasons for Pair Programming
 
