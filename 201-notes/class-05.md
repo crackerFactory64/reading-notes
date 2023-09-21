@@ -7,9 +7,7 @@
 What is a real world use case for the alt attribute being used in a website?
 How can you improve accessibility of images in an HTML document?
 
-Images in HTML can be made more accessible with the use of the _alt_ attribute. The _alt_ attribute should contain a description of the image's content that is read aloud by screen readers and displayed on screen in the case of the image failing to load. For example:
-
-        <img src="./tech-ed-logo.jpg" alt="Tech Educators logo" />
+Images in HTML can be made more accessible with the use of the _alt_ attribute. The _alt_ attribute should contain a description of the image's content that is read aloud by screen readers and displayed on screen in the case of the image failing to load.
 
 The _figure_ element is used to contain an image and optional caption that makes sense on its own such as a graph or map.
 
@@ -34,4 +32,3 @@ When choosing a font for a web page it is important to consider font availabilit
 Fonts can be modified with the CSS properties _font-size_, _font-weight_, and _font-style_. _Font-size_ determines the size of the text, _font-weight_ affects the thickness of the text, and _font-style_ can be used to make text italic or oblique.
 
 Spacing can be added to text in a element with the _letter-spacing_ and _word-spacing_ properties.
-
