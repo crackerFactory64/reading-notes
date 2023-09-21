@@ -15,11 +15,13 @@ A: Ensure the link text is short and semantic. Make it clear that text is a link
 
 ## CSS Layout
 
-What is meant by “normal flow”?
-What are a few differences between block-level and inline elements?
-\_\_\_ positioning is the default for every html element.
-Name a few advantages to using absolute positioning on an element.
-What is a key difference between fixed positioning and absolute positioning?
+### FLow
+
+In CSS normal flow refers to the default way in which elements are rendered on screen. By default, block elements appear one after each other top to bottom whereas inline elements appear next to each other horizontally.
+
+### Positioning
+
+The default _position_ value for every HTML element is _static_ which means it will follow the default flow. _Absolute_ postioning removes an element from normal flow and allows the developer to manually position an element using the _top_, _right_, _bottom_, and _left_ properties. A similar _position_ value to _absolute_ is _fixed_ but the key difference with _fixed_ is that the postion is based on the viewport whereas with _absolute_ it is based on the element's closest ancester element not in normal flow.
 
 ## JS
 
