@@ -1,14 +1,14 @@
-# Class 07 - Object-Orientated Programming, HTML Tables
+# Class 07 - Object-Oriented Programming, HTML Tables
 
 ## Domain modeling
 
-Domain modeling is a way of conceptualising code before writing any which describes the different parts of the script along with their attributes and behaviours. This is important as it allows for technically minded and non-technically minded people to to discuss a problem and the eventual programming solution.
+Domain modeling is a way of conceptualising code before actually writing any which describes the different parts of the script along with their attributes and behaviours. This is important as it allows for technically minded and non-technically minded people to to discuss a problem and the eventual solution.
 
 ## HTML tables
 
 In HTML tables shouldn't be used for layouts because:
 
-- they reduce accessibilty
+- they reduce accessibility
 - the code required is hard to read
 - they are not naturally responsive
 
@@ -30,3 +30,18 @@ In JavaScript a constructor is a function that creates a new object , and is cal
         }
 
         const whisper = new Cat("Whisper");
+
+With constructors the _this_ keyword is bound to the new object so it can be used in the creation of the new object.
+
+### Prototypes
+
+Prototype can be used to alter an existing object without redeclaring it, for instance:
+
+        function Cat(name){
+          this.name = name;
+          this.meow = function (){
+            alert(`My name is ${name}. Meow!`)
+          }
+        }
+
+        Cat.prototype.family = "Felidae"
