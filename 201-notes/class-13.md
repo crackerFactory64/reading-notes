@@ -1,0 +1,3 @@
+# Introduction to Persistence with Local Storage
+
+Local storage provides developers with a way to store the state of a web application without requiring the storage of user information on a server and the subsequent programming work required to serve the correct data to the each individual user. Be aware though, local storage is not considered secure enough to store sensitive information. Local storage can only store data in the format of a string, to get around this other forms of data can be converted to a string and reconverted back to their actual format using the JSON.stringify and JSON.parse methods respectively.
