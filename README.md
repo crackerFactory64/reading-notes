@@ -2,7 +2,7 @@
 
 ![Me](./me-edit.png)
 
-My name is Lee and I am an aspiring web developer currently enrolled on the Tech Educators coding bootcamp. Here is [a link to my GitHub profile](https://github.com/crackerFactory64) where you can see what I've been working on.
+My name is Lee and I am an aspiring web developer currently enrolled on the Tech Educators coding bootcamp. Here is [a link to my GitHub profile](https://github.com/leemander) where you can see what I've been working on.
 
 ## About this Repo
 
@@ -10,50 +10,50 @@ This repository contains notes I have made on the assigned reading from the boot
 
 ### 102 Notes
 
-- [Class 01](https://crackerfactory64.github.io/reading-notes/102/class-01)
-- [Class 02](https://crackerfactory64.github.io/reading-notes/102/class-02)
-- [Class 03](https://crackerfactory64.github.io/reading-notes/102/class-03)
-- [Class 04](https://crackerfactory64.github.io/reading-notes/102/class-04)
-- [Class 05](https://crackerfactory64.github.io/reading-notes/102/class-05)
-- [Class 06](https://crackerfactory64.github.io/reading-notes/102/class-06)
-- [Class 07](https://crackerfactory64.github.io/reading-notes/102/class-07)
-- [Class 08](https://crackerfactory64.github.io/reading-notes/102/class-08)
+- [Class 01](https://leemander.github.io/reading-notes/102/class-01)
+- [Class 02](https://leemander.github.io/reading-notes/102/class-02)
+- [Class 03](https://leemander.github.io/reading-notes/102/class-03)
+- [Class 04](https://leemander.github.io/reading-notes/102/class-04)
+- [Class 05](https://leemander.github.io/reading-notes/102/class-05)
+- [Class 06](https://leemander.github.io/reading-notes/102/class-06)
+- [Class 07](https://leemander.github.io/reading-notes/102/class-07)
+- [Class 08](https://leemander.github.io/reading-notes/102/class-08)
 
 ### 201 Notes
 
-- [Class 01](https://crackerfactory64.github.io/reading-notes/201/class-01)
-- [Class 02](https://crackerfactory64.github.io/reading-notes/201/class-02)
-- [Class 03](https://crackerfactory64.github.io/reading-notes/201/class-03)
-- [Class 04](https://crackerfactory64.github.io/reading-notes/201/class-04)
-- [Class 05](https://crackerfactory64.github.io/reading-notes/201/class-05)
-- [Class 06](https://crackerfactory64.github.io/reading-notes/201/class-06)
-- [Class 07](https://crackerfactory64.github.io/reading-notes/201/class-07)
-- [Class 08](https://crackerfactory64.github.io/reading-notes/201/class-08)
-- [Class 09](https://crackerfactory64.github.io/reading-notes/201/class-09)
-- [Class 10](https://crackerfactory64.github.io/reading-notes/201/class-10)
-- [Class 11](https://crackerfactory64.github.io/reading-notes/201/class-11)
-- [Class 12](https://crackerfactory64.github.io/reading-notes/201/class-12)
-- [Class 13](https://crackerfactory64.github.io/reading-notes/201/class-13)
-- [Class 14](https://crackerfactory64.github.io/reading-notes/201/class-14)
-- [Class 15](https://crackerfactory64.github.io/reading-notes/201/class-15)
+- [Class 01](https://leemander.github.io/reading-notes/201/class-01)
+- [Class 02](https://leemander.github.io/reading-notes/201/class-02)
+- [Class 03](https://leemander.github.io/reading-notes/201/class-03)
+- [Class 04](https://leemander.github.io/reading-notes/201/class-04)
+- [Class 05](https://leemander.github.io/reading-notes/201/class-05)
+- [Class 06](https://leemander.github.io/reading-notes/201/class-06)
+- [Class 07](https://leemander.github.io/reading-notes/201/class-07)
+- [Class 08](https://leemander.github.io/reading-notes/201/class-08)
+- [Class 09](https://leemander.github.io/reading-notes/201/class-09)
+- [Class 10](https://leemander.github.io/reading-notes/201/class-10)
+- [Class 11](https://leemander.github.io/reading-notes/201/class-11)
+- [Class 12](https://leemander.github.io/reading-notes/201/class-12)
+- [Class 13](https://leemander.github.io/reading-notes/201/class-13)
+- [Class 14](https://leemander.github.io/reading-notes/201/class-14)
+- [Class 15](https://leemander.github.io/reading-notes/201/class-15)
 
 ### 301 Notes
 
-- [Class 01](https://crackerfactory64.github.io/reading-notes/301/class-01)
-- [Class 02](https://crackerfactory64.github.io/reading-notes/301/class-02)
-- [Class 03](https://crackerfactory64.github.io/reading-notes/301/class-03)
-- [Class 04](https://crackerfactory64.github.io/reading-notes/301/class-04)
-- [Class 05](https://crackerfactory64.github.io/reading-notes/301/class-05)
-- [Class 06](https://crackerfactory64.github.io/reading-notes/301/class-06)
-- [Class 07](https://crackerfactory64.github.io/reading-notes/301/class-07)
-- [Class 08](https://crackerfactory64.github.io/reading-notes/301/class-08)
-- [Class 09](https://crackerfactory64.github.io/reading-notes/301/class-09)
-- [Class 10](https://crackerfactory64.github.io/reading-notes/301/class-10)
-- [Class 11](https://crackerfactory64.github.io/reading-notes/301/class-11)
-- [Class 12](https://crackerfactory64.github.io/reading-notes/301/class-12)
-- [Class 13](https://crackerfactory64.github.io/reading-notes/301/class-13)
-- [Class 14](https://crackerfactory64.github.io/reading-notes/301/class-14)
-- [Class 15](https://crackerfactory64.github.io/reading-notes/301/class-15)
+- [Class 01](https://leemander.github.io/reading-notes/301/class-01)
+- [Class 02](https://leemander.github.io/reading-notes/301/class-02)
+- [Class 03](https://leemander.github.io/reading-notes/301/class-03)
+- [Class 04](https://leemander.github.io/reading-notes/301/class-04)
+- [Class 05](https://leemander.github.io/reading-notes/301/class-05)
+- [Class 06](https://leemander.github.io/reading-notes/301/class-06)
+- [Class 07](https://leemander.github.io/reading-notes/301/class-07)
+- [Class 08](https://leemander.github.io/reading-notes/301/class-08)
+- [Class 09](https://leemander.github.io/reading-notes/301/class-09)
+- [Class 10](https://leemander.github.io/reading-notes/301/class-10)
+- [Class 11](https://leemander.github.io/reading-notes/301/class-11)
+- [Class 12](https://leemander.github.io/reading-notes/301/class-12)
+- [Class 13](https://leemander.github.io/reading-notes/301/class-13)
+- [Class 14](https://leemander.github.io/reading-notes/301/class-14)
+- [Class 15](https://leemander.github.io/reading-notes/301/class-15)
 
 <!---![A happy brain](https://img.freepik.com/free-vector/cute-brain-cartoon-vector-icon-illustration-people-education-icon-concept-isolated-premium-vector_138676-9060.jpg)
 
@@ -73,6 +73,6 @@ This takes the form of seeing challenges and failures as simply '_bumps in the r
 
 ### About Me
 
-My name is Lee and here's a link to my [GitHub profile](https://github.com/crackerFactory64)
+My name is Lee and here's a link to my [GitHub profile](https://github.com/leemander)
 
 -->
