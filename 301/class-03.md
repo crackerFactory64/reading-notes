@@ -43,3 +43,11 @@ The spread operator can combine multiple objects into one, with properties from 
         const obj2 = { b: 3, c: 4 };
         const mergedObject = { ...obj1, ...obj2 };
         // mergedObject is { a: 1, b: 3, c: 4 }
+
+## Passing Functions Between Components
+
+[YouTube](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+In the above video the first step that the developer does to pass functions between components is to create a function within the parent component. The function that is created, _increment()_, contains a .map() call on the _people_ array and loops through it checking each item to see if it's _name_ property matches the one that is supplied via the argument provided when increment is called and if it does increases that object's _count_ property by one. Once it has created a copy of the people array with the change applied it replaces the people array stored in state with that new one.
+
+Functions can be passed from a parent to a child the same way any other form of data can be, via Props. The child component can then use that function by accessing its Props object.
